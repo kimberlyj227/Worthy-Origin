@@ -3,7 +3,7 @@
 # Worthy Origin
 
 ## <ins>Deployed Project</ins>
-https://worthy-origin.herokuapp.com/
+https://worthyorigin.herokuapp.com/
 
 ## <ins>Description</ins>
 Worthy Origin is an app where users can gather more information on the environmental impact of their grocery items. Users can search for food items to see what green house gas emissions are associated with each product.<br/>
